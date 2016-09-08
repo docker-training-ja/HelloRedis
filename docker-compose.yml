@@ -3,4 +3,4 @@ javaclient:
   links:
     - redis:redisdb
 redis:
-  image: redis
+  image: redis:3.2
